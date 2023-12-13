@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "baslik": "Akıllı Telefon",
+      "marka": "XYZ",
+      "model": "A1",
+      "fiyat": 1500,
+      "stokAdedi": 50,
+      "renk": "Siyah",
+      "ozellikler": [
+        "4G LTE bağlantısı",
+        "64 GB depolama",
+        "5.5 inç ekran"
+      ],
+      "resim": "https://picsum.photos/201"
+    },
+    {
+      "id": 2,
+      "baslik": "Dizüstü Bilgisayar",
+      "marka": "ABC",
+      "model": "B2",
+      "fiyat": 3000,
+      "stokAdedi": 30,
+      "renk": "Gümüş",
+      "ozellikler": [
+        "Intel Core i7 işlemci",
+        "16 GB RAM",
+        "512 GB SSD"
+      ],
+      "resim": "https://picsum.photos/202"
+    },
+    {
+      "id": 3,
+      "baslik": "Kablosuz Kulaklık",
+      "marka": "DEF",
+      "model": "C3",
+      "fiyat": 150,
+      "stokAdedi": 100,
+      "renk": "Beyaz",
+      "ozellikler": [
+        "Bluetooth 5.0",
+        "Dokunmatik kontrol",
+        "20 saat pil ömrü"
+      ],
+      "resim": "https://picsum.photos/203"
+    },
+    {
+      "id": 4,
+      "baslik": "Akıllı Saat",
+      "marka": "GHI",
+      "model": "D4",
+      "fiyat": 500,
+      "stokAdedi": 20,
+      "renk": "Metal Gri",
+      "ozellikler": [
+        "GPS takibi",
+        "Kalp atış hızı sensörü",
+        "Su geçirmez"
+      ],
+      "resim": "https://picsum.photos/204"
+    },
+    {
+      "id": 5,
+      "baslik": "Akıllı Televizyon",
+      "marka": "KLM",
+      "model": "E5",
+      "fiyat": 2500,
+      "stokAdedi": 40,
+      "renk": "Siyah",
+      "ozellikler": [
+        "4K Ultra HD",
+        "Smart TV",
+        "50 inç ekran"
+      ],
+      "resim": "https://picsum.photos/205"
+    },
+    {
+      "id": 6,
+      "baslik": "Oyun Bilgisayarı",
+      "marka": "NOP",
+      "model": "F6",
+      "fiyat": 4000,
+      "stokAdedi": 25,
+      "renk": "RGB Aydınlatmalı",
+      "ozellikler": [
+        "NVIDIA GeForce RTX 3080",
+        "32 GB RAM",
+        "1 TB NVMe SSD"
+      ],
+      "resim": "https://picsum.photos/206"
+    },
+    {
+      "id": 14,
+      "baslik": "Bluetooth Hoparlör",
+      "marka": "QRS",
+      "model": "G7",
+      "fiyat": 120,
+      "stokAdedi": 80,
+      "renk": "Mavi",
+      "ozellikler": [
+        "Kablosuz şarj",
+        "Taşınabilir",
+        "10 saat pil ömrü"
+      ],
+      "resim": "https://picsum.photos/207"
+    },
+    {
+      "id": 7,
+      "baslik": "Kamera Seti",
+      "marka": "TUV",
+      "model": "H8",
+      "fiyat": 800,
+      "stokAdedi": 15,
+      "renk": "Siyah",
+      "ozellikler": [
+        "4 adet kamera",
+        "Gece görüşü",
+        "Hareket algılama"
+      ],
+      "resim": "https://picsum.photos/208"
+    },
+    {
+      "id": 8,
+      "baslik": "Kablosuz Fare",
+      "marka": "XYZ",
+      "model": "F9",
+      "fiyat": 80,
+      "stokAdedi": 60,
+      "renk": "Siyah",
+      "ozellikler": [
+        "Ergonomik tasarım",
+        "1200 DPI hassasiyet",
+        "Çift yönlü kaydırma"
+      ],
+      "resim": "https://picsum.photos/209"
+    },
+    {
+      "id": 9,
+      "baslik": "Fitness Akıllı Bilezik",
+      "marka": "ABC",
+      "model": "B10",
+      "fiyat": 120,
+      "stokAdedi": 35,
+      "renk": "Pembe",
+      "ozellikler": [
+        "Kalp atış hızı izleme",
+        "Adım sayar",
+        "Uyku takibi"
+      ],
+      "resim": "https://picsum.photos/210"
+    },
+    {
+      "id": 10,
+      "baslik": "Taşınabilir Harici SSD",
+      "marka": "DEF",
+      "model": "C11",
+      "fiyat": 200,
+      "stokAdedi": 45,
+      "renk": "Gri",
+      "ozellikler": [
+        "500 GB depolama",
+        "USB-C bağlantı",
+        "Hızlı veri transferi"
+      ],
+      "resim": "https://picsum.photos/211"
+    },
+    {
+      "id": 11,
+      "baslik": "Gaming Klavye ve Mouse Seti",
+      "marka": "GHI",
+      "model": "D12",
+      "fiyat": 150,
+      "stokAdedi": 25,
+      "renk": "RGB Aydınlatmalı",
+      "ozellikler": [
+        "Mechanical tuşlar",
+        "Programlanabilir tuşlar",
+        "Optik oyun faresi"
+      ],
+      "resim": "https://picsum.photos/212"
+    }
+  ],
+  "basket": [
+    {
+      "id": 1,
+      "marka": "XYZ",
+      "model": "A1",
+      "fiyat": 1500,
+      "stokAdedi": 50,
+      "resim": "https://picsum.photos/201",
+      "adet": 4
+    },
+    {
+      "id": 2,
+      "marka": "ABC",
+      "model": "B2",
+      "fiyat": 3000,
+      "stokAdedi": 30,
+      "resim": "https://picsum.photos/202",
+      "adet": 3
+    }
+  ]
+}
