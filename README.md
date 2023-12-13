@@ -1,10 +1,9 @@
 # Yapılacaklar
 
-- Db.json'daki ürün verisini çek ve ekrana bas
+Pull the product data from db.json and print it to the screen
 
-- 1.yol > thunk kullanmadan
-- 2.yol > thunk kullanarak
-
+- 1st way > without using thunk
+- 2nd way > using thunk
 # Kütüphaneler
 
 - json-server
